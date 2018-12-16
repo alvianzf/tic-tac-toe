@@ -2,4 +2,6 @@
 
 a simple tic-tac-toe game based on MiniMax algorithm using JavaScript
 
->>project created by **Alvian Zachry Faturrahman**
+```
+project created by **Alvian Zachry Faturrahman**
+```
